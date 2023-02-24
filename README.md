@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Carlos Martell@
+- 👋 Hi, I’m Carlos Martell!
 - 👀 I’m interested in DevOps and Automation
 - 🌱 I’m currently learning about Kubernetes
 
